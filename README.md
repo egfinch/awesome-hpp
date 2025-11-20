@@ -121,7 +121,7 @@
 | [transwarp](https://github.com/bloomen/transwarp) | [![GitHub stars](https://img.shields.io/github/stars/bloomen/transwarp?style=social)](https://github.com/bloomen/transwarp/stargazers/) | A header-only C++ library for task concurrency. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [taskpool](https://github.com/fawdlstty/taskpool) | [![GitHub stars](https://img.shields.io/github/stars/fawdlstty/taskpool?style=social)](https://github.com/fawdlstty/taskpool/stargazers/) | Modern C++ taskpool. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [thread-pool](https://github.com/DeveloperPaul123/thread-pool) | [![GitHub stars](https://img.shields.io/github/stars/DeveloperPaul123/thread-pool?style=social)](https://github.com/DeveloperPaul123/thread-pool/stargazers/) | Modern C++20 thread-pool. | ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-| [ctq](https://github.com/egfinch/ctq) | [![GitHub stars](https://img.shields.io/github/stars/egfinch/ctq?style=social)](https://img.shields.io/github/stars/egfinch/ctq/stargazers/) | Modern Concurent Task Queue | ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+| [ctq](https://github.com/egfinch/ctq) | [![GitHub stars](https://img.shields.io/github/stars/egfinch/ctq?style=social)](https://github.com/egfinch/ctq/stargazers/) | Modern Concurent Task Queue | ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Cryptography and Security
 
